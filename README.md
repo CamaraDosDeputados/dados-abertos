@@ -8,6 +8,10 @@ O principal propósito deste repositório é dar aos desenvolvedores no GitHub u
 
 Isso ocorre na área de [Issues](https://github.com/CamaraDosDeputados/dados-abertos/issues) do repositório. É possível que sua questão já tenha sido respondida em outra ocasião: vale a pena dar uma olhada nos inúmeros _posts_ já existentes.
 
+## Wiki: para quem quer saber e para quem já sabe
+
+**NOVO!** - O [wiki](https://github.com/CamaraDosDeputados/dados-abertos/wiki) do **Dados Abertos** no GitHub é um espaço para quem quer aprender e para quem quer ensinar a fazer alguma coisa com os dados da Câmara. Tem uma dica? Compartilhe seu conhecimento!
+
 ## Comunidade ##
 Usuários do **Dados Abertos** criaram um grupo no WhatsApp para anúncios, avisos e troca de ideias. Participe! Basta clicar [aqui](https://chat.whatsapp.com/KHKU3ehNkn016WTOn2zfXB) :)
 
