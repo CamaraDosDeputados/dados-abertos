@@ -1,0 +1,425 @@
+idTabela;codTipoOrgao;codOrgao;txtNome;txtSigla;datCriacao;docCriacao;urlDocCriacao;datExtincao;codProposicao
+1000424;2;;Comissão de Defesa dos Direitos da Mulher;;2016-04-28;RES 15/2016;https://www2.camara.leg.br/legin/fed/rescad/2016/resolucaodacamaradosdeputados-15-28-abril-2016-782949-publicacaooriginal-150191-pl.html;;
+1000423;2;;Comissão de Defesa dos Direitos da Pessoa Idosa;;2016-04-28;RES 15/2016;https://www2.camara.leg.br/legin/fed/rescad/2016/resolucaodacamaradosdeputados-15-28-abril-2016-782949-publicacaooriginal-150191-pl.html;;
+1000422;2;;Comissão de Defesa dos Direitos das Pessoas com Deficiência;;2015-02-25;RES 1/2015;https://www2.camara.leg.br/legin/fed/rescad/2015/resolucaodacamaradosdeputados-1-25-fevereiro-2015-780184-publicacaooriginal-146192-pl.html;;492263
+1000421;2;;Comissão de Turismo;;2014-02-19;RES 54/2014;https://www2.camara.leg.br/legin/fed/rescad/2014/resolucaodacamaradosdeputados-54-19-fevereiro-2014-778223-publicacaooriginal-143476-pl.html;;606503
+1000420;2;;Comissão do Esporte;;2014-02-19;RES 54/2014;https://www2.camara.leg.br/legin/fed/rescad/2014/resolucaodacamaradosdeputados-54-19-fevereiro-2014-778223-publicacaooriginal-143476-pl.html;;606503
+1000419;2;;Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços;;2015-10-30;RES 12/2015;https://www2.camara.leg.br/legin/fed/rescad/2015/resolucaodacamaradosdeputados-12-29-outubro-2015-781847-publicacaooriginal-148557-pl.html;;608521
+1000418;2;;Comissão de Educação;;2013-02-28;RES 21/2013;https://www2.camara.leg.br/legin/fed/rescad/2013/resolucaodacamaradosdeputados-21-27-fevereiro-2013-775437-publicacaooriginal-139135-pl.html;;565586
+1000417;2;;Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia;;2013-03-07;RES 23/2013;https://www2.camara.leg.br/legin/fed/rescad/2013/resolucaodacamaradosdeputados-23-6-marco-2013-775508-publicacaooriginal-139229-pl.html;;566666
+1000416;2;;Comissão de Cultura;;2013-02-28;RES 21/2013;https://www2.camara.leg.br/legin/fed/rescad/2013/resolucaodacamaradosdeputados-21-27-fevereiro-2013-775437-publicacaooriginal-139135-pl.html;;565586
+1000415;2;;Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000414;2;;Comissão de Desenvolvimento Econômico, Indústria e Comércio;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;2015;149662
+1000413;2;;Comissão de Minas e Energia;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000412;2;;Comissão de Finanças e Tributação;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000411;2;;Comissão de Fiscalização Financeira e Controle;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000410;2;;Comissão de Constituição e Justiça e de Cidadania;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000409;2;;Comissão de Relações Exteriores e de Defesa Nacional;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000408;2;;Comissão de Segurança Pública e Combate ao Crime Organizado;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000407;2;;Comissão de Educação e Cultura;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;2013;149662
+1000406;2;;Comissão de Turismo e Desporto;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;2014;149662
+1000405;2;;Comissão de Seguridade Social e Família;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000404;2;;Comissão de Trabalho, de Administração e Serviço Público;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000403;2;;Comissão de Meio Ambiente e Desenvolvimento Sustentável;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000402;2;;Comissão de Defesa do Consumidor;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000401;2;;Comissão de Direitos Humanos e Minorias;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000400;2;;Comissão da Amazônia, Integração Nacional e de Desenvolvimento Regional;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;2013;149662
+1000399;2;;Comissão de Desenvolvimento Urbano;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000398;2;;Comissão de Viação e Transportes;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000397;2;;Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000396;2;;Comissão de Ciência e Tecnologia, Comunicação e Informática;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000395;2;;Comissão de Legislação Participativa;;2004-03-18;RES 20/2004;https://www2.camara.leg.br/legin/fed/rescad/2004/resolucaodacamaradosdeputados-20-17-marco-2004-783666-publicacaooriginal-151140-pl.html;;149662
+1000394;2;;Comissão de Economia, Indústria e Comércio;;2003-07-09;RES 4/2003;https://www2.camara.leg.br/legin/fed/rescad/2003/resolucaodacamaradosdeputados-4-8-julho-2003-322081-publicacaooriginal-1-pl.html;;104449
+1000393;2;;Comissão de Economia, Indústria, Comércio e Turismo;;2002-03-22;RES 29/2002;https://www2.camara.leg.br/legin/fed/rescad/2002/resolucaodacamaradosdeputados-29-21-marco-2002-321606-norma-pl.html;2003-07-08;21814
+1000392;2;;Comissão de Educação e Cultura;;2003-07-09;RES 4/2003;https://www2.camara.leg.br/legin/fed/rescad/2003/resolucaodacamaradosdeputados-4-8-julho-2003-322081-publicacaooriginal-1-pl.html;;104449
+1000391;2;;Comissão de Turismo e Desporto;;2003-07-09;RES 4/2003;https://www2.camara.leg.br/legin/fed/rescad/2003/resolucaodacamaradosdeputados-4-8-julho-2003-322081-publicacaooriginal-1-pl.html;;104449
+1000390;2;;Comissão de Educação, Cultura e Desporto;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;2003-07-08;235608
+1000389;2;;Comissão de Segurança Pública e Combate ao Crime Organizado, Violência e Narcotráfico;;2002-02-21;RES 27/2002;https://www2.camara.leg.br/legin/fed/rescad/2002/resolucaodacamaradosdeputados-27-20-fevereiro-2002-321580-publicacaooriginal-1-pl.html;;21664
+1000388;2;;Comissão de Relações Exteriores e de Defesa Nacional;;1997-02-15;RES 15/1996;https://www2.camara.leg.br/legin/fed/rescad/1996/resolucaodacamaradosdeputados-15-11-dezembro-1996-321012-publicacaooriginal-1-pl.html;;235123
+1000387;2;;Comissão da Amazônia e de Desenvolvimento Regional;;1997-02-15;RES 15/1996;https://www2.camara.leg.br/legin/fed/rescad/1996/resolucaodacamaradosdeputados-15-11-dezembro-1996-321012-publicacaooriginal-1-pl.html;;235123
+1000386;2;;Comissão de Economia, Indústria, Comércio e Turismo;;2002-03-22;RES 29/2002;https://www2.camara.leg.br/legin/fed/rescad/2002/resolucaodacamaradosdeputados-29-21-marco-2002-321606-publicacaooriginal-1-pl.html;;21814
+1000385;2;;Comissão de Legislação Participativa;;2001-05-31;RES 21/2001;https://www2.camara.leg.br/legin/fed/rescad/2001/resolucaodacamaradosdeputados-21-30-maio-2001-319754-publicacaooriginal-1-pl.html;;28321
+1000384;2;;Comissão de Direitos Humanos;;1995-02-01;RES 80/1995;https://www2.camara.leg.br/legin/fed/rescad/1995/resolucaodacamaradosdeputados-80-31-janeiro-1995-320928-publicacaooriginal-1-pl.html;;237250
+1000383;2;;Comissão de Desenvolvimento Urbano e Interior;;1993-03-05;RES 25/1993;https://www2.camara.leg.br/legin/int/rescad/1993/resolucaodacamaradosdeputados-25-3-marco-1993-321263-publicacaooriginal-1-pl.html;;236175
+1000382;2;;Comissão de Viação e Transportes;;1993-03-05;RES 25/1993;https://www2.camara.leg.br/legin/int/rescad/1993/resolucaodacamaradosdeputados-25-3-marco-1993-321263-publicacaooriginal-1-pl.html;;236175
+1000381;2;;Comissão de Fiscalização Financeira e Controle;;1995-01-20;RES 77/1995;https://www2.camara.leg.br/legin/fed/rescad/1995/resolucaodacamaradosdeputados-77-19-janeiro-1995-320925-publicacaooriginal-1-pl.html;;237241
+1000380;2;;Comissão de Agricultura e Política Rural;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000379;2;;Comissão de Economia, Indústria e Comércio;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000378;2;;Comissão de Minas e Energia;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000377;2;;Comissão de Finanças e Tributação;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000376;2;;Comissão de Relações Exteriores;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000375;2;;Comissão de Defesa Nacional;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000374;2;;Comissão de Educação, Cultura e Desporto;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000373;2;;Comissão de Seguridade Social e Família;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000372;2;;Comissão de Trabalho, de Administração e Serviço Público;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000371;2;;Comissão de Defesa do Consumidor, Meio Ambiente e Minorias;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000370;2;;Comissão de Viação e Transportes, Desenvolvimento Urbano e Interior;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000369;2;;Comissão de Ciência e Tecnologia, Comunicação e Informática;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000368;2;;Comissão de Constituição e Justiça e de Redação;;1991-02-01;RES 17/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-publicacaooriginal-1-pl.html;;235608
+1000367;2;;Comissão de Agricultura e Política Rural;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000366;2;;Comissão de Economia, Indústria e Comércio;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000365;2;;Comissão de Minas e Energia;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000364;2;;Comissão de Finanças;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000363;2;;Comissão de Fiscalização e Controle;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000362;2;;Comissão de Constituição e Justiça e de Redação;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000361;2;;Comissão de Relações Exteriores;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000360;2;;Comissão de Defesa Nacional;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000359;2;;Comissão de Educação, Cultura, Esporte e Turismo;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000358;2;;Comissão de Saúde, Previdência e Assistência Social;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000357;2;;Comissão de Trabalho, de Administração e Serviço Público;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000356;2;;Comissão de Serviço Público;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000355;2;;Comissão de Defesa do Consumidor e do Meio Ambiente;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000354;2;;Comissão de Desenvolvimento Urbano, Interior e Índio;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000353;2;;Comissão de Transportes;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000352;2;;Comissão de Ciência e Tecnologia, Comunicação e Informática;;1989-02-25;RES 5/1989;https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-5-23-fevereiro-1989-320302-publicacaooriginal-1-pl.html;1991-01-31;235622
+1000351;2;;Comissão de Fiscalização e Controle;;1986-10-03;RES 34/1986;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-34-20-junho-1986-320300-publicacaooriginal-1-pl.html;;237457
+1000350;2;;Comissão de Esporte e Turismo;;1983-05-21;RES 16/1983;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-16-19-maio-1983-320293-publicacaooriginal-1-pl.html;;235396
+1000349;2;;Comissão de Previdência e Assistência Social;;1985-08-22;RES 30/1985;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-30-19-agosto-1985-320298-publicacaooriginal-1-pl.html;;237448
+1000348;2;;Comissão de Trabalho;;1985-08-22;RES 30/1985;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-30-19-agosto-1985-320298-publicacaooriginal-1-pl.html;;237448
+1000347;2;;Comissão de Defesa do Consumidor;;1981-05-28;RES 15/1981;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-15-25-maio-1981-320290-publicacaooriginal-1-pl.html;;237174
+1000346;2;;Comissão do Índio;;1983-05-06;RES 15/1983;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-15-5-maio-1983-320292-publicacaooriginal-1-pl.html;;235044
+1000345;2;;Comissão de Desenvolvimento Urbano;;1985-05-23;RES 4/1985;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-4-23-maio-1985-320297-publicacaooriginal-1-pl.html;;237442
+1000344;2;;Comissão de Comunicação e Informática;;1985-11-21;RES 55/1985;https://www2.camara.leg.br/legin/fed/rescad/1980-1987/resolucaodacamaradosdeputados-55-19-novembro-1985-320299-publicacaooriginal-1-pl.html;;235675
+1000343;2;;Comissão de Agricultura e Política Rural;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000342;2;;Comissão de Economia, Indústria e Comércio;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000341;2;;Comissão de Minas e Energia;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000340;2;;Comissão de Finanças;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000339;2;;Comissão de Fiscalização Financeira e Tomada de Contas;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000338;2;;Comissão de Constituição e Justiça;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000337;2;;Comissão de Redação;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000336;2;;Comissão de Relações Exteriores;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000335;2;;Comissão de Segurança Nacional;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000334;2;;Comissão de Educação e Cultura;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000333;2;;Comissão de Saúde;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000332;2;;Comissão de Trabalho e Legislação Social;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000331;2;;Comissão de Comunicações;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000330;2;;Comissão de Transportes;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000329;2;;Comissão de Ciência e Tecnologia;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000328;2;;Comissão de Serviço Público;;1972-12-01;RES 30/1972;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-30-31-outubro-1972-320276-publicacaooriginal-1-pl.html;;235377
+1000327;2;;Comissão do Interior;;1977-09-01;RES 51/1977;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-51-30-agosto-1977-320280-publicacaooriginal-1-pl.html;;236446
+1000326;2;;Comissão de Comunicação;;1977-09-01;RES 51/1977;https://www2.camara.leg.br/legin/fed/rescad/1970-1979/resolucaodacamaradosdeputados-51-30-agosto-1977-320280-publicacaooriginal-1-pl.html;;236446
+1000325;2;;Comissão de Agricultura e Política Rural;;;Res. Mesa 22/1/1964 – RICD;;;
+1000324;2;;Comissão de Minas e Energia;;;Res. Mesa 22/1/1964 – RICD;;;
+1000323;2;;Comissão de Finanças;;;Res. Mesa 22/1/1964 – RICD;;;
+1000322;2;;Comissão de Fiscalização Financeira e Tomada de Contas;;;Res. Mesa 22/1/1964 – RICD;;;
+1000321;2;;Comissão de Economia;;;Res. Mesa 22/1/1964 – RICD;;;
+1000320;2;;Comissão de Orçamento;;;Res. Mesa 22/1/1964 – RICD;;;
+1000319;2;;Comissão de Constituição e Justiça;;;Res. Mesa 22/1/1964 – RICD;;;
+1000318;2;;Comissão de Redação;;;Res. Mesa 22/1/1964 – RICD;;;
+1000317;2;;Comissão de Relações Exteriores;;;Res. Mesa 22/1/1964 – RICD;;;
+1000316;2;;Comissão de Segurança Nacional;;;Res. Mesa 22/1/1964 – RICD;;;
+1000315;2;;Comissão de Educação e Cultura;;;Res. Mesa 22/1/1964 – RICD;;;
+1000314;2;;Comissão de Saúde;;;Res. Mesa 22/1/1964 – RICD;;;
+1000313;2;;Comissão de Legislação Social;;;Res. Mesa 22/1/1964 – RICD;;;
+1000312;2;;Comissão de Transportes, Comunicações e Obras Públicas;;;Res. Mesa 22/1/1964 – RICD;;;
+1000311;2;;Comissão de Serviço Público;;;Res. Mesa 22/1/1964 – RICD;;;
+1000310;2;;Comissão do Distrito Federal;;;Res. Mesa 22/1/1964 – RICD;;;
+1000309;2;;Comissão de Agricultura e Política Rural;;;RES 18/1963;;;
+1000308;2;;Comissão de Minas e Energia;;;RES 18/1963;;;
+1000307;2;;Comissão de Finanças;;;RES 18/1963;;;
+1000306;2;;Comissão de Fiscalização Financeira e Tomada de Contas;;;RES 18/1963;;;
+1000305;2;;Comissão de Economia;;;RES 18/1963;;;
+1000304;2;;Comissão de Orçamento;;;RES 18/1963;;;
+1000303;2;;Comissão de Constituição e Justiça;;;RES 18/1963;;;
+1000302;2;;Comissão de Redação;;;RES 18/1963;;;
+1000301;2;;Comissão de Relações Exteriores;;;RES 18/1963;;;
+1000300;2;;Comissão de Segurança Nacional;;;RES 18/1963;;;
+1000299;2;;Comissão de Educação e Cultura;;;RES 18/1963;;;
+1000298;2;;Comissão de Saúde;;;RES 18/1963;;;
+1000297;2;;Comissão de Legislação Social;;;RES 18/1963;;;
+1000296;2;;Comissão de Transportes, Comunicações e Obras Públicas;;;RES 18/1963;;;
+1000295;2;;Comissão de Serviço Público;;;RES 18/1963;;;
+1000294;2;;Comissão do Distrito Federal;;;RES 18/1963;;;
+1000293;2;;Comissão do Distrito Federal;;;RES 63/1961;;;
+1000292;2;;Comissão de Economia;;;Res. Mesa 1/1959;;;
+1000291;2;;Comissão de Finanças;;;Res. Mesa 1/1959;;;
+1000290;2;;Comissão de Orçamento e Fiscalização Financeira;;;Res. Mesa 1/1959;;;
+1000289;2;;Comissão de Constituição e Justiça;;;Res. Mesa 1/1959;;;
+1000288;2;;Comissão de Redação;;;Res. Mesa 1/1959;;;
+1000287;2;;Comissão de Relações Exteriores;;;Res. Mesa 1/1959;;;
+1000286;2;;Comissão de Segurança Nacional;;;Res. Mesa 1/1959;;;
+1000285;2;;Comissão de Educação e Cultura;;;Res. Mesa 1/1959;;;
+1000284;2;;Comissão de Saúde;;;Res. Mesa 1/1959;;;
+1000283;2;;Comissão de Legislação Social;;;Res. Mesa 1/1959;;;
+1000282;2;;Comissão de Transportes, Comunicações e Obras Públicas;;;Res. Mesa 1/1959;;;
+1000281;2;;Comissão de Serviço Público;;;Res. Mesa 1/1959;;;
+1000280;2;;Comissão de Relações Exteriores;;;RES 115/1957;;;
+1000279;2;;Comissão de Economia;;;RES 582/1955;;;
+1000278;2;;Comissão de Finanças;;;RES 582/1955;;;
+1000277;2;;Comissão de Orçamento e Fiscalização Financeira;;;RES 582/1955;;;
+1000276;2;;Comissão de Constituição e Justiça;;;RES 582/1955;;;
+1000275;2;;Comissão de Redação;;;RES 582/1955;;;
+1000274;2;;Comissão de Diplomacia;;;RES 582/1955;;;
+1000273;2;;Comissão de Segurança Nacional;;;RES 582/1955;;;
+1000272;2;;Comissão de Educação e Cultura;;;RES 582/1955;;;
+1000271;2;;Comissão de Saúde;;;RES 582/1955;;;
+1000270;2;;Comissão de Legislação Social;;;RES 582/1955;;;
+1000269;2;;Comissão de Transportes, Comunicações e Obras Públicas;;;RES 582/1955;;;
+1000268;2;;Comissão de Serviço Público;;;RES 582/1955;;;
+1000267;2;;Comissão de Economia;;;RES 34/1949;;;
+1000266;2;;Comissão de Finanças;;;RES 34/1949;;;
+1000265;2;;Comissão de Tomada de Contas;;;RES 34/1949;;;
+1000264;2;;Comissão de Constituição e Justiça;;;RES 34/1949;;;
+1000263;2;;Comissão de Redação;;;RES 34/1949;;;
+1000262;2;;Comissão de Diplomacia;;;RES 34/1949;;;
+1000261;2;;Comissão de Segurança Nacional;;;RES 34/1949;;;
+1000260;2;;Comissão de Educação e Cultura;;;RES 34/1949;;;
+1000259;2;;Comissão de Saúde Pública;;;RES 34/1949;;;
+1000258;2;;Comissão de Legislação Social;;;RES 34/1949;;;
+1000257;2;;Comissão de Transportes, Comunicações e Obras Públicas;;;RES 34/1949;;;
+1000256;2;;Comissão de Serviço Público Civil;;;RES 34/1949;;;
+1000255;2;;Comissão de Agricultura;;;RES 10/1947;;;
+1000254;2;;Comissão de Indústria e Comércio;;;RES 10/1947;;;
+1000253;2;;Comissão de Finanças;;;RES 10/1947;;;
+1000252;2;;Comissão de Tomada de Contas;;;RES 10/1947;;;
+1000251;2;;Comissão de Constituição e Justiça;;;RES 10/1947;;;
+1000250;2;;Comissão de Redação;;;RES 10/1947;;;
+1000249;2;;Comissão de Diplomacia;;;RES 10/1947;;;
+1000248;2;;Comissão de Segurança Nacional;;;RES 10/1947;;;
+1000247;2;;Comissão de Educação e Cultura;;;RES 10/1947;;;
+1000246;2;;Comissão de Saúde Pública;;;RES 10/1947;;;
+1000245;2;;Comissão de Legislação Social;;;RES 10/1947;;;
+1000244;2;;Comissão de Obras Públicas;;;RES 10/1947;;;
+1000243;2;;Comissão de Transportes e Comunicações;;;RES 10/1947;;;
+1000242;2;;Comissão de Serviço Público Civil;;;RES 10/1947;;;
+1000241;2;;Comissão de Agricultura;;;RES 3/1936;;;
+1000240;2;;Comissão de Industria e Commercio;;;RES 3/1936;;;
+1000239;2;;Comissão de Finanças e Orçamento;;;RES 3/1936;;;
+1000238;2;;Comissão de Tomada de Contas;;;RES 3/1936;;;
+1000237;2;;Comissão de Constituição e Justiça;;;RES 3/1936;;;
+1000236;2;;Comissão de Redacção;;;RES 3/1936;;;
+1000235;2;;Comissão de Diplomacia e Tratados;;;RES 3/1936;;;
+1000234;2;;Comissão de Segurança Nacional;;;RES 3/1936;;;
+1000233;2;;Comissão de Educação e Cultura;;;RES 3/1936;;;
+1000232;2;;Comissão de Saude Publica;;;RES 3/1936;;;
+1000231;2;;Comissão Executiva;;;RES 3/1936;;;
+1000230;2;;Comissão de Legislação Social;;;RES 3/1936;;;
+1000229;2;;Comissão de Obras Publicas;;;RES 3/1936;;;
+1000228;2;;Comissão de Transportes e Communicações;;;RES 3/1936;;;
+1000227;2;;Comissão de Agricultura, Industria e Commercio;;;RES 1/1934;;;
+1000226;2;;Comissão de Orçamento;;;RES 1/1934;;;
+1000225;2;;Comissão de Finanças;;;RES 1/1934;;;
+1000224;2;;Comissão de Tomada de Contas;;;RES 1/1934;;;
+1000223;2;;Comissão de Constituição e Justiça;;;RES 1/1934;;;
+1000222;2;;Comissão de Redacção;;;RES 1/1934;;;
+1000221;2;;Comissão de Diplomacia e Tratados;;;RES 1/1934;;;
+1000220;2;;Comissão de Segurança Nacional;;;RES 1/1934;;;
+1000219;2;;Comissão de Educação e Cultura;;;RES 1/1934;;;
+1000218;2;;Comissão de Saude Publica;;;RES 1/1934;;;
+1000217;2;;Comissão Executiva;;;RES 1/1934;;;
+1000216;2;;Comissão de Legislação Social;;;RES 1/1934;;;
+1000215;2;;Comissão de Obras Publicas, Transportes e Communicações;;;RES 1/1934;;;
+1000214;2;;Comissão de Agricultura, Industria e Commercio;;;Regimento Interno 1928;;;
+1000213;2;;Comissão de Finanças;;;Regimento Interno 1928;;;
+1000212;2;;Comissão de Tomada de Contas;;;Regimento Interno 1928;;;
+1000211;2;;Comissão de Poderes;;;Regimento Interno 1928;;;
+1000210;2;;Comissão de Constituição e Justiça;;;Regimento Interno 1928;;;
+1000209;2;;Comissão de Redacção;;;Regimento Interno 1928;;;
+1000208;2;;Comissão de Diplomacia e Tratados;;;Regimento Interno 1928;;;
+1000207;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1928;;;
+1000206;2;;Comissão de Instrucção;;;Regimento Interno 1928;;;
+1000205;2;;Comissão de Saude Publica;;;Regimento Interno 1928;;;
+1000204;2;;Comissão da Policia;;;Regimento Interno 1928;;;
+1000203;2;;Comissão de Obras Publicas;;;Regimento Interno 1928;;;
+1000202;2;;Comissão de Agricultura e Industria;;;Regimento Interno 1915;;;
+1000201;2;;Comissão de Finanças;;;Regimento Interno 1915;;;
+1000200;2;;Comissão de Tomada de Contas;;;Regimento Interno 1915;;;
+1000199;2;;Comissão de Petições e Poderes;;;Regimento Interno 1915;;;
+1000198;2;;Comissão de Constituição e Justiça;;;Regimento Interno 1915;;;
+1000197;2;;Comissão de Redacção;;;Regimento Interno 1915;;;
+1000196;2;;Comissão de Diplomacia e Tratados;;;Regimento Interno 1915;;;
+1000195;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1915;;;
+1000194;2;;Comissão de Instrucção Publica;;;Regimento Interno 1915;;;
+1000193;2;;Comissão de Saude Publica;;;Regimento Interno 1915;;;
+1000192;2;;Comissão da Policia;;;Regimento Interno 1915;;;
+1000191;2;;Comissão de Obras Publicas e Viação;;;Regimento Interno 1915;;;
+1000190;2;;Comissão de Agricultura e Industria;;;Regimento Interno 1904;;;
+1000189;2;;Comissão de Finanças;;;Regimento Interno 1904;;;
+1000188;2;;Comissão de Tomada de Contas;;;Regimento Interno 1904;;;
+1000187;2;;Comissão de Petições e Poderes;;;Regimento Interno 1904;;;
+1000186;2;;Comissão de Constituição e Justiça;;;Regimento Interno 1904;;;
+1000185;2;;Comissão de Redacção;;;Regimento Interno 1904;;;
+1000184;2;;Comissão de Diplomacia e Tratados;;;Regimento Interno 1904;;;
+1000183;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1904;;;
+1000182;2;;Comissão de Instrucção Publica;;;Regimento Interno 1904;;;
+1000181;2;;Comissão de Saude Publica;;;Regimento Interno 1904;;;
+1000180;2;;Comissão da Policia;;;Regimento Interno 1904;;;
+1000179;2;;Comissão de Obras Publicas e Viação;;;Regimento Interno 1904;;;
+1000178;2;;Comissão de Fazenda e Industria;;;Regimento Interno 1901;;;
+1000177;2;;Comissão de Orçamento;;;Regimento Interno 1901;;;
+1000176;2;;Comissão de Pensões e Contas;;;Regimento Interno 1901;;;
+1000175;2;;Comissão de Petições e Poderes;;;Regimento Interno 1901;;;
+1000174;2;;Comissão de Constituição, Legislação e Justiça;;;Regimento Interno 1901;;;
+1000173;2;;Comissão de Redacção das Leis;;;Regimento Interno 1901;;;
+1000172;2;;Comissão de Diplomacia e Tratados;;;Regimento Interno 1901;;;
+1000171;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1901;;;
+1000170;2;;Comissão de Instrucção e Saude Publica;;;Regimento Interno 1901;;;
+1000169;2;;Comissão da Policia;;;Regimento Interno 1901;;;
+1000168;2;;Comissão de Obras Publicas e Colonisação;;;Regimento Interno 1901;;;
+1000167;2;;Comissão de Tarifas;;;Regimento Interno 1901;;;
+1000166;2;;Comissão Agricultura, Minas e Bosques;;;Regimento Interno 1881;;;
+1000165;2;;Comissão de Commercio, Industria e Artes;;;Regimento Interno 1881;;;
+1000164;2;;Comissão de Fazenda;;;Regimento Interno 1881;;;
+1000163;2;;Comissão de Orçamento;;;Regimento Interno 1881;;;
+1000162;2;;Comissão de Contas;;;Regimento Interno 1881;;;
+1000161;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1881;;;
+1000160;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1881;;;
+1000159;2;;Comissão de Redacção das Leis;;;Regimento Interno 1881;;;
+1000158;2;;Comissão de Justiça Civil;;;Regimento Interno 1881;;;
+1000157;2;;Comissão de Justiça Criminal;;;Regimento Interno 1881;;;
+1000156;2;;Comissão de Diplomacia;;;Regimento Interno 1881;;;
+1000155;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1881;;;
+1000154;2;;Comissão de Instrucção Publica;;;Regimento Interno 1881;;;
+1000153;2;;Comissão de Saude Publica;;;Regimento Interno 1881;;;
+1000152;2;;Comissão da Policia da Casa;;;Regimento Interno 1881;;;
+1000151;2;;Comissão de Camaras Municipaes;;;Regimento Interno 1881;;;
+1000150;2;;Comissão de Assembléas Provinciaes;;;Regimento Interno 1881;;;
+1000149;2;;Comissão de Negocios Ecclesiasticos;;;Regimento Interno 1881;;;
+1000148;2;;Comissão de Estatistica, Colonisação, Catechese e Civilização dos Indios;;;Regimento Interno 1881;;;
+1000147;2;;Comissão de Obras Publicas;;;Regimento Interno 1881;;;
+1000146;2;;Comissão Agricultura, Minas e Bosques;;;Regimento Interno 1874;;;
+1000145;2;;Comissão de Commercio, Industria e Artes;;;Regimento Interno 1874;;;
+1000144;2;;Comissão de Fazenda;;;Regimento Interno 1874;;;
+1000143;2;;Comissão de Orçamento;;;Regimento Interno 1874;;;
+1000142;2;;Comissão de Contas;;;Regimento Interno 1874;;;
+1000141;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1874;;;
+1000140;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1874;;;
+1000139;2;;Comissão de Redacção das Leis;;;Regimento Interno 1874;;;
+1000138;2;;Comissão de Justiça Civil;;;Regimento Interno 1874;;;
+1000137;2;;Comissão de Justiça Criminal;;;Regimento Interno 1874;;;
+1000136;2;;Comissão de Diplomacia;;;Regimento Interno 1874;;;
+1000135;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1874;;;
+1000134;2;;Comissão de Instrucção Publica;;;Regimento Interno 1874;;;
+1000133;2;;Comissão de Saude Publica;;;Regimento Interno 1874;;;
+1000132;2;;Comissão da Policia da Casa;;;Regimento Interno 1874;;;
+1000131;2;;Comissão de Camaras Municipaes;;;Regimento Interno 1874;;;
+1000130;2;;Comissão de Assembléas Provinciaes;;;Regimento Interno 1874;;;
+1000129;2;;Comissão de Negocios Ecclesiasticos;;;Regimento Interno 1874;;;
+1000128;2;;Comissão de Estatistica, Colonisação, Catechese e Civilização dos Indios;;;Regimento Interno 1874;;;
+1000127;2;;Comissão de Obras Publicas;;;Regimento Interno 1874;;;
+1000126;2;;Comissão Agricultura, Minas e Bosques;;;Regimento Interno 1871;;;
+1000125;2;;Comissão de Commercio, Industria e Artes;;;Regimento Interno 1871;;;
+1000124;2;;Comissão de Fazenda;;;Regimento Interno 1871;;;
+1000123;2;;Comissão de Orçamento;;;Regimento Interno 1871;;;
+1000122;2;;Comissão de Contas;;;Regimento Interno 1871;;;
+1000121;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1871;;;
+1000120;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1871;;;
+1000119;2;;Comissão de Redacção das Leis;;;Regimento Interno 1871;;;
+1000118;2;;Comissão de Justiça Civil;;;Regimento Interno 1871;;;
+1000117;2;;Comissão de Justiça Criminal;;;Regimento Interno 1871;;;
+1000116;2;;Comissão de Diplomacia;;;Regimento Interno 1871;;;
+1000115;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1871;;;
+1000114;2;;Comissão de Instrucção Publica;;;Regimento Interno 1871;;;
+1000113;2;;Comissão de Saude Publica;;;Regimento Interno 1871;;;
+1000112;2;;Comissão da Policia da Casa;;;Regimento Interno 1871;;;
+1000111;2;;Comissão de Camaras Municipaes;;;Regimento Interno 1871;;;
+1000110;2;;Comissão de Assembléas Provinciaes;;;Regimento Interno 1871;;;
+1000109;2;;Comissão de Negocios Ecclesiasticos;;;Regimento Interno 1871;;;
+1000108;2;;Comissão de Estatistica, Colonisação, Catechese e Civilização dos Indios;;;Regimento Interno 1871;;;
+1000107;2;;Comissão de Obras Publicas;;;Regimento Interno 1871;;;
+1000106;2;;Comissão Agricultura, Minas e Bosques;;;Regimento Interno 1868;;;
+1000105;2;;Comissão de Commercio, Industria e Artes;;;Regimento Interno 1868;;;
+1000104;2;;Comissão de Fazenda;;;Regimento Interno 1868;;;
+1000103;2;;Comissão Primeira de Orçamento e Contas;;;Regimento Interno 1868;;;
+1000102;2;;Comissão Segunda Imperio;;;Regimento Interno 1868;;;
+1000101;2;;Comissão Terceira Justiça e Estrangeiros;;;Regimento Interno 1868;;;
+1000100;2;;Comissão Quarta Marinha;;;Regimento Interno 1868;;;
+1000099;2;;Comissão Quinta Guerra;;;Regimento Interno 1868;;;
+1000098;2;;Comissão Sexta Agricultura;;;Regimento Interno 1868;;;
+1000097;2;;Comissão de Exame do Thesouro;;;Regimento Interno 1868;;;
+1000096;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1868;;;
+1000095;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1868;;;
+1000094;2;;Comissão de Redacção das Leis;;;Regimento Interno 1868;;;
+1000093;2;;Comissão de Justiça Civil;;;Regimento Interno 1868;;;
+1000092;2;;Comissão de Justiça Criminal;;;Regimento Interno 1868;;;
+1000091;2;;Comissão de Diplomacia;;;Regimento Interno 1868;;;
+1000090;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1868;;;
+1000089;2;;Comissão de Instrucção Publica;;;Regimento Interno 1868;;;
+1000088;2;;Comissão de Saude Publica;;;Regimento Interno 1868;;;
+1000087;2;;Comissão da Policia da Casa;;;Regimento Interno 1868;;;
+1000086;2;;Comissão de Camaras Municipaes;;;Regimento Interno 1868;;;
+1000085;2;;Comissão de Assembléas Provinciaes;;;Regimento Interno 1868;;;
+1000084;2;;Comissão de Negocios Ecclesiasticos;;;Regimento Interno 1868;;;
+1000083;2;;Comissão de Estatistica, Colonisação, Catechese e Civilização dos Indios;;;Regimento Interno 1868;;;
+1000082;2;;Comissão de Obras Publicas;;;Regimento Interno 1868;;;
+1000081;2;;Comissão Agricultura, Minas e Bosques;;;Regimento Interno 1857 – nota;;;
+1000080;2;;Comissão de Commercio, Industria e Artes;;;Regimento Interno 1857 – nota;;;
+1000079;2;;Comissão de Fazenda;;;Regimento Interno 1857 – nota;;;
+1000078;2;;Comissão Primeira do Orçamento (Ministério da Fazenda);;;Regimento Interno 1857 – nota;;;
+1000077;2;;Comissão Segunda do Orçamento (Ministério do Imperio, Justiça e Estrangeiros);;;Regimento Interno 1857 – nota;;;
+1000076;2;;Comissão Terceira do Orçamento (Ministério da Marinha e Guerra);;;Regimento Interno 1857 – nota;;;
+1000075;2;;Comissão Primeira de Contas (Ministério da Fazenda);;;Regimento Interno 1857 – nota;;;
+1000074;2;;Comissão Segunda de Contas (Ministério do Imperio, Justiça e Estrangeiros);;;Regimento Interno 1857 – nota;;;
+1000073;2;;Comissão Terceira de Contas (Ministério da Marinha e Guerra);;;Regimento Interno 1857 – nota;;;
+1000072;2;;Comissão de Exame do Thesouro;;;Regimento Interno 1857 – nota;;;
+1000071;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1857 – nota;;;
+1000070;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1857 – nota;;;
+1000069;2;;Comissão de Redacção das Leis;;;Regimento Interno 1857 – nota;;;
+1000068;2;;Comissão de Justiça Civil;;;Regimento Interno 1857 – nota;;;
+1000067;2;;Comissão de Justiça Criminal;;;Regimento Interno 1857 – nota;;;
+1000066;2;;Comissão de Diplomacia;;;Regimento Interno 1857 – nota;;;
+1000065;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1857 – nota;;;
+1000064;2;;Comissão de Instrucção Publica;;;Regimento Interno 1857 – nota;;;
+1000063;2;;Comissão de Saude Publica;;;Regimento Interno 1857 – nota;;;
+1000062;2;;Comissão da Policia da Casa;;;Regimento Interno 1857 – nota;;;
+1000061;2;;Comissão de Camaras Municipaes;;;Regimento Interno 1857 – nota;;;
+1000060;2;;Comissão de Assembléas Provinciaes;;;Regimento Interno 1857 – nota;;;
+1000059;2;;Comissão de Negocios Ecclesiasticos;;;Regimento Interno 1857 – nota;;;
+1000058;2;;Comissão de Estatistica, Colonisação, Catechese e Civilização dos Indios;;;Regimento Interno 1857 – nota;;;
+1000057;2;;Comissão de Obras Publicas;;;Regimento Interno 1857 – nota;;;
+1000056;2;;Comissão Agricultura, Minas e Bosques;;;Regimento Interno 1854;;;
+1000055;2;;Comissão de Commercio, Industria e Artes;;;Regimento Interno 1854;;;
+1000054;2;;Comissão de Fazenda;;;Regimento Interno 1854;;;
+1000053;2;;Comissão Primeira do Orçamento (Ministério da Fazenda);;;Regimento Interno 1854;;;
+1000052;2;;Comissão Segunda do Orçamento (Ministério do Imperio, Justiça e Estrangeiros);;;Regimento Interno 1854;;;
+1000051;2;;Comissão Terceira do Orçamento (Ministério da Marinha e Guerra);;;Regimento Interno 1854;;;
+1000050;2;;Comissão Primeira de Contas (Ministério da Fazenda);;;Regimento Interno 1854;;;
+1000049;2;;Comissão Segunda de Contas (Ministério do Imperio, Justiça e Estrangeiros);;;Regimento Interno 1854;;;
+1000048;2;;Comissão Terceira de Contas (Ministério da Marinha e Guerra);;;Regimento Interno 1854;;;
+1000047;2;;Comissão de Exame do Thesouro;;;Regimento Interno 1854;;;
+1000046;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1854;;;
+1000045;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1854;;;
+1000044;2;;Comissão de Redacção das Leis;;;Regimento Interno 1854;;;
+1000043;2;;Comissão de Justiça Civil;;;Regimento Interno 1854;;;
+1000042;2;;Comissão de Justiça Criminal;;;Regimento Interno 1854;;;
+1000041;2;;Comissão de Diplomacia;;;Regimento Interno 1854;;;
+1000040;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1854;;;
+1000039;2;;Comissão da Instrucção Publica;;;Regimento Interno 1854;;;
+1000038;2;;Comissão de Saude Publica;;;Regimento Interno 1854;;;
+1000037;2;;Comissão da Policia da Casa;;;Regimento Interno 1854;;;
+1000036;2;;Comissão de Camaras Municipaes;;;Regimento Interno 1854;;;
+1000035;2;;Comissão de Assembléas Provinciaes;;;Regimento Interno 1854;;;
+1000034;2;;Comissão de Negocios Ecclesiasticos;;;Regimento Interno 1854;;;
+1000033;2;;Comissão de Estatistica, Colonisação, Catechese e Civilização dos Indios;;;Regimento Interno 1854;;;
+1000032;2;;Comissão de Obras Publicas;;;Regimento Interno 1854;;;
+1000031;2;;Comissão de Minas e Bosques;;;Regimento Interno 1831;;;
+1000030;2;;Comissão do Commercio, Agricultura, Industria e Artes;;;Regimento Interno 1831;;;
+1000029;2;;Comissão de Fazenda e Orçamento;;;Regimento Interno 1831;;;
+1000028;2;;Comissão de Pensões e Ordenados;;;Regimento Interno 1831;;;
+1000027;2;;Comissão de Constituição e Poderes;;;Regimento Interno 1831;;;
+1000026;2;;Comissão de Petições;;;Regimento Interno 1831;;;
+1000025;2;;Comissão da Redacção das Leis;;;Regimento Interno 1831;;;
+1000024;2;;Comissão de Justiça Civil e Criminal;;;Regimento Interno 1831;;;
+1000023;2;;Comissão de Diplomacia;;;Regimento Interno 1831;;;
+1000022;2;;Comissão de Marinha e Guerra;;;Regimento Interno 1831;;;
+1000021;2;;Comissão da Instrucção Publica;;;Regimento Interno 1831;;;
+1000020;2;;Comissão de Saude Publica;;;Regimento Interno 1831;;;
+1000019;2;;Comissão da Policia da Casa;;;Regimento Interno 1831;;;
+1000018;2;;Comissão das Camaras Municipaes, e Juizes de Paz;;;Regimento Interno 1831;;;
+1000017;2;;Comissão dos Conselhos Geraes de Provincias;;;Regimento Interno 1831;;;
+1000016;2;;Comissão dos Negocios Ecclesiasticos;;;Regimento Interno 1831;;;
+1000015;2;;Comissão da Colonisação, Cathequese e Civilização dos Indios;;;Regimento Interno 1831;;;
+1000014;2;;Comissão de Estatistica;;;Regimento Interno 1831;;;
+1000013;2;;Comissão dos meios e modos para a lenta extincção da Escravatura;;;Regimento Interno 1831;;;
+1000012;2;;Comissão das Minas, e Bosques;;;Regimento Interno 1826;;;
+1000011;2;;Comissão do Commercio, Agricultura, Industria, e Artes;;;Regimento Interno 1826;;;
+1000010;2;;Comissão da Fazenda;;;Regimento Interno 1826;;;
+1000009;2;;Comissão da Guarda da Constituição;;;Regimento Interno 1826;;;
+1000008;2;;Comissão de Petiçoens;;;Regimento Interno 1826;;;
+1000007;2;;Comissão da Redacção das Leis;;;Regimento Interno 1826;;;
+1000006;2;;Comissão de Legislação, Justiça Civil, e Criminal;;;Regimento Interno 1826;;;
+1000005;2;;Comissão da Marinha e Guerra;;;Regimento Interno 1826;;;
+1000004;2;;Comissão da Instrucção Pública;;;Regimento Interno 1826;;;
+1000003;2;;Comissão da Policia, e Inspecção da Caza;;;Regimento Interno 1826;;;
+1000002;2;;Comissão da Colonização, Cathequesi, e Civilização dos Indios;;;Regimento Interno 1826;;;
+1000001;2;;Comissão da Estatistica, e Diplomatica;;;Regimento Interno 1826;;;
