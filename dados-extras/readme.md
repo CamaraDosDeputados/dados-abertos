@@ -1,8 +1,6 @@
-# Dados Abertos da Câmara dos Deputados
+# dados-extras
 
-## dados-extras
-
-Sob este diretório estão dados e informações que não são adequados para publicação pelo **Dados Abertos** &ndash; ***ainda***.
+Sob este diretório estão dados e informações que não são adequados para publicação pelo **Dados Abertos** da Câmara dos Deputados &ndash; ***ainda***.
 
 São arquivos, em formatos e estruturas diversas, com informações pesquisadas e verificadas pelo Centro de Documentação e Informação da Câmara (CEDI) para atendimentos a demandas individuais por meio do serviço "Fale Conosco".
 
