@@ -1,14 +1,14 @@
 # dados-extras
 
-Sob este diretório estão dados e informações que não são adequados para publicação pelo **Dados Abertos** da Câmara dos Deputados &ndash; ***ainda***.
+Sob este diretório estão dados e informações que não estão adequados para publicação pelo **Dados Abertos** da Câmara dos Deputados &ndash; ***ainda***.
 
 São arquivos, em formatos e estruturas diversas, com informações pesquisadas e verificadas pelo Centro de Documentação e Informação da Câmara (CEDI) para atendimentos a demandas individuais por meio do serviço "Fale Conosco".
 
-Em grande parte as informações são anteriores às que são registradas nos sistemas da Câmara dos Deputados e, por isso, não são atualmente disponíveis no **Dados Abertos**. Há também informações mais recentes que podem ser usadas para complementar ou corrigir dados que já são cadastrados e publicados.
+Muitas das informações são anteriores à entrada em operação dos sistemas da Câmara dos Deputados, jamais foram digitalizadas e, por isso, não são atualmente disponíveis no **Dados Abertos**. Há também informações mais recentes que podem ser usadas para complementar ou corrigir dados já cadastrados. Também serão disponibilizadas aqui cópias de tabelas das bases da Câmara em que os dados não estão suficientemente estruturados e/ou relacionados para publicação no **Dados Abertos**.
 
-Nestes subdiretórios queremos passar essas informações para arquivos CSV que possam ser diretamente publicados pelo **Dados Abertos**, nos formatos e estruturas compatíveis com os arquivos já oferecidos para download, e que também possam ser importados para as bases de dados dos sistemas da Câmara, para que as informações também sejam disponíveis na API do **Dados Abertos**, no Portal da Câmara e em outros serviços.
+O propósito de publicar esses dados aqui é desenvolver, de forma colaborativa com os usuários avançados do serviço, tabelas em formato CSV devidamente estruturadas, complementadas e relacionadas com os dados já fornecidos pela API e pelos arquivos do **Dados Abertos**. Com isso, esperamos que se torne possível incorporar esses dados aos que são publicados no Portal de Dados Abertos da Câmara, e até mesmo importar as informações para os sistemas internos da casa, para que elas se tornem disponíveis na API do **Dados Abertos**, no Portal da Câmara e em outros serviços. 
 
-Acreditamos que muitos dos usuários do **Dados Abertos** tem condições e disposição para colaborar com esse trabalho, inclusive com conhecimentos e ferramentas que nós não temos. E acreditamos na intenção de todos de tornar esses pedaços da História do Brasil cada vez mais precisos, mais abertos e mais livres.
+Acreditamos que muitos dos usuários do **Dados Abertos** têm condições e disposição para colaborar com esse trabalho, inclusive com conhecimentos e ferramentas que nós não temos. E acreditamos na intenção de todos de tornar esses pedaços da História do Brasil cada vez mais precisos, mais abertos e mais livres.
 
 ### Organização
 
