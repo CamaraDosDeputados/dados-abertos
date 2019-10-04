@@ -19,7 +19,7 @@ Os nomes das colunas estão sujeitos a alterações.
 #### Regimento Interno de 1928
 
 > Art. 72. As Commissões permanentes exercerão as suas funcções durante toda a sessão legislativa ordinaria, ou extraordinaria, e, nas suas prorogações, até nova eleição.
-> Paragrapho unico. Na ultima sessão legislativa de cada legislatura cessará o exercicio das funcções das Commissões com a realização do pleito para a renovação da Camara dos Deputados.
+>> Paragrapho unico. Na ultima sessão legislativa de cada legislatura cessará o exercicio das funcções das Commissões com a realização do pleito para a renovação da Camara dos Deputados.
 
 O parágrafo único deste artigo dá a entender que as comissões criadas por esta edição do Regimento foram extintas exatamente no dia das eleições legislativas seguintes &ndash; mas esta data é desconhecida até o momento. Pelo que foi possível descobrir até o momento, eleições legislativas e presidenciais eram separadas na época, e aparentemente a eleição para a Câmara ocorreu em 1929.
 
