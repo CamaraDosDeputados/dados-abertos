@@ -1,0 +1,262 @@
+id;siglaPartido;nome;codOcorrencia;tituloOcorrencia;dataOcorrencia;idPartidoDestino;siglaPartidoDestino;descricaoOcorrencia
+36766;AIB;Ação Integralista Brasileira;1;Criação;1935-03-01;36766;AIB;Data estimada do II Congresso Integralista, em que a AIB decidiu se tornar partido. Há divergências entre fontes e não há documentação oficial do TSE.
+36766;AIB;Ação Integralista Brasileira;2;Extinção;1937-12-02;36766;AIB;Extinto pelo Decreto 37/1937
+36767;AL;Aliança Libertadora;2;Extinção;1950-01-01;36767;AL;
+36768;ARENA;Aliança Renovadora Nacional;1;Criação;1966-04-04;36768;ARENA;
+36768;ARENA;Aliança Renovadora Nacional;2;Extinção;1979-12-20;36768;ARENA;Extinto pela Lei 6.767/1979 de 20/12/1979 (art. 2º)
+36857;ASD;Aliança Social Democrata;1;Criação;1945-09-01;36857;ASD;Data de registro provisório pela Resolução TSE 155
+36857;ASD;Aliança Social Democrata;2;Extinção;1948-05-04;36857;ASD;Data de cancelamento de registro pela Resolução TSE 2870
+36898;AVANTE;Avante;1;Criação;2017-09-25;36898;AVANTE;Resultante da troca de nome do PTdoB.
+;CAB;Concentração Autonomista da Bahia;1;Criação;1935-07-02;;CAB;Resultante da fusão de LASP e PRD
+;CAB;Concentração Autonomista da Bahia;2;Extinção;1937-12-02;;;Extinto pelo Decreto 37/1937
+37905;CIDADANIA;Cidadania;1;Criação;2019-04-05;37905;CIDADANIA;Resultante da troca de nome do PPS (36813) cadastrada em 05/04/2019
+36858;CSD;Confraternização Social Democrata;1;Criação;1945-10-09;36858;CSD;Registro provisório pela Resolução TSE 243
+36858;CSD;Confraternização Social Democrata;2;Extinção;1948-06-01;36858;CSD;Data estimada. Faltam registros no TSE sobre o cancelamento do registro provisório.
+37902;DC;Democracia Cristã;1;Criação;2018-05-17;37902;DC;Troca de nome do PSDC
+36769;DEM;Democratas;1;Criação;2007-03-28;36769;DEM;Data extraoficial de mudança de nome do PFL. Registro original da Câmara (19095 nesta tabela) tinha data de 23/04/2007. Resolução TSE 22.550 é de 12/06/2007.
+36770;ED;Esquerda Democrática;1;Criação;1945-09-25;36770;ED;
+36770;ED;Esquerda Democrática;3;Alteração Nome;1947-08-06;;PSB*;Resolução TSE 2130 - Troca de nome para PSB
+36771;FUG;Frente Única Gaúcha;1;Criação;1929-08-15;36771;FUG;Data aproximada. Bloco resultante de aliança do PRR com o PL***, que continuou existindo
+36771;FUG;Frente Única Gaúcha;2;Extinção;1937-12-02;36771;FUG;Extinta pelo Decreto 37/1937
+36772;LASP;Liga de Ação Social e Política da Bahia;1;Criação;1933-02-07;;;
+36772;LASP;Liga de Ação Social e Política da Bahia;4;Fusão;1935-07-02;;CAB;Fusão com o Partido Republicano Democrata
+36773;LEC;Liga Eleitoral Católica;1;Criação;1932-03-01;36773;LEC;Data de criação estimada
+36773;LEC;Liga Eleitoral Católica;2;Extinção;1937-12-02;36773;LEC;Extinto pelo Decreto 37/1937
+36899;MDB;Movimento Democrático Brasileiro;1;Criação;2018-05-15;36899;MDB;Homologação da troca de nome do PMDB pelo TSE ocorreu em 15/05/2018. Registro na Câmara foi feito em 21/05/2018, às 11h16. 
+36774;MDB*;Movimento Democrático Brasileiro;1;Criação;1966-03-24;36774;MDB*;Data de registro pela Resolução TSE 7822
+36774;MDB*;Movimento Democrático Brasileiro;2;Extinção;1979-12-20;36774;MDB*;Extinto pela Lei 6.767/1979 de 20/12/1979 (art. 2º)
+36775;MTR;Movimento Trabalhista Renovador;1;Criação;1961-09-20;36775;MTR;Resolução TSE 6860
+36775;MTR;Movimento Trabalhista Renovador;2;Extinção;1965-10-27;36775;MTR;Extinto pelo Ato Institucional 2 em 1965
+36859;NEPEC;Núcleo Eleitoral Pró Emancipação Carioca;1;Criação;1936-02-08;36859;NEPEC;Data de publicação do registro provisório no Diário da Justiça n. 17
+36859;NEPEC;Núcleo Eleitoral Pró Emancipação Carioca;2;Extinção;1937-12-02;36859;NEPEC;Extinto pelo Decreto 37/1937. Tentativa de novo registro em 1945 foi negada em 09/08/1945.
+37901;NOVO;Partido Novo;1;Criação;2015-09-15;37901;NOVO;
+;PADF;Partido Autonomista do Distrito Federal;1;Criação;1933-03-05;;PADF;
+;PADF;Partido Autonomista do Distrito Federal;6;Extinção;1937-12-02;;;Extinto pelo Dec. 37/1937
+36776;PAN;Partido dos Aposentados da Nação;1;Criação;1995-11-21;36776;PAN;Data de registro provisório pela Resolução TSE 19396. Registro definitivo pela Resolução TSE 20096 em 19/02/1998. Fundação extraoficial em 22/11/1995.
+36776;PAN;Partido dos Aposentados da Nação;5;Incorporação;2007-03-15;36845;PTB;Data da Resolução TSE 22519. Convenção do PTB que aprovou a incorporação do PAN ocorreu em 05/10/2006. Registro na Câmara em 11/06/2007.
+36860;PAN*;Partido Agrário Nacional;1;Criação;1945-10-02;36860;PAN*;Data de registro provisório pela Resolução TSE 218. Registro definitivo em 16/11/1945 pela Resolução TSE 344.
+36860;PAN*;Partido Agrário Nacional;4;Fusão;1946-08-06;36840;PSP;Resolução-TSE 960, fusão com PPS e PRP.
+37900;PATRI;Patriota;1;Criação;2018-05-23;37900;PATRI;Data de registro na Câmara do novo nome do PEN (36761), homologada pelo TSE em 26/04/2018 (processo RPP 153572)
+37900;PATRI;Patriota;3;Alteração Nome;2019-06-03;37907;PATRIOTA;Data cadastrada na Câmara. Incorporação do PRP e autorização para não usar a sigla PATRI foram decididas pelo TSE em 28/03/2019. Novo registro: Patriota (37907)
+37907;PATRIOTA;Patriota;1;Criação;2019-06-03;37907;PATRIOTA;Data cadastrada na Câmara. Incorporação do PRP e autorização para não usar a sigla PATRI foram decididas pelo TSE em 28/03/2019.
+36861;PBV;Partido da Boa Vontade;1;Criação;1964-06-24;36861;PBV;Data de registro pela Resolução TSE 7610
+36861;PBV;Partido da Boa Vontade;2;Extinção;1965-10-27;;;Extinto pelo Ato Institucional 2 em 1965
+36777;PC;Partido Comunista;1;Criação;1922-03-25;36777;PC;"Considerando-se que seja o ""Partido Comunista-Seção Brasileira da Internacional Comunista"""
+36777;PC;Partido Comunista;2;Extinção;1922-06-15;36777;PC;Data aproximada em que foi declarado ilegal pelo Poder Executivo
+36862;PC*;Partido Constitucionalista;1;Criação;1934-02-24;36862;PC*;Resultante de fusão entre o PD, a Ação Nacional Republicana e a Federação dos Voluntários de SP.
+36862;PC*;Partido Constitucionalista;2;Extinção;1937-12-02;36862;PC*;Extinto pelo Decreto 37/1937
+36778;PCB*;Partido Comunista Brasileiro;1;Criação;1996-05-09;36778;PCB*;"Data do registro oficial no TSE; começou a se reorganizar em 25/03/1993"
+;PCB**;Partido Comunista Brasileiro;1;Criação;1985-05-08;;PCB**;Data de publicação de programa, manifesto e estatuto no DOU
+;PCB**;Partido Comunista Brasileiro;2;Extinção;1992-01-26;;;Data de encerramento do X Congresso Extraordinário, que declarou a extinção do PCB e decidiu a criação do PPS
+;PCB***;Partido Comunista do Brasil;1;Criação;1945-11-10;;PCB**;Data de registro definitivo. Provisório obtido em 27/10/1945.
+;PCB***;Partido Comunista do Brasil;2;Extinção;1947-05-07;;;"Cassação de registro pela Resolução-TSE 1841; partido continuou existindo em clandestinidade"
+;PCB****;Partido Comunista do Brasil;1;Criação;1927-01-01;;PCB****;Data em que o PCB voltou à legalidade, segundo FGV/CPDOC
+;PCB****;Partido Comunista do Brasil;2;Extinção;1927-08-12;;;Data de publicação da Lei Celerada, que novamente pôs o Partido Comunista na ilegalidade
+36779;PCdoB;Partido Comunista do Brasil;1;Criação;1987-04-07;36779;PCdoB;Data de registro provisório pela Resolução TSE 13609. Registro definitivo em 23/06/1988 pela Resolução TSE 14323.
+36780;PCN;Partido Comunitário Nacional;2;Extinção;1992-11-30;36780;PCN;Data aproximada. Chegou a disputar as eleições municipais de 1992 e depois foi extinto pelo TSE.
+36780;PCN;Partido Comunitário Nacional;1;Criação;1988-06-16;36780;PCN;Data de registro provisório pela Resolução TSE 14301, renovado em 30/06/1989 e 26/11/1991. Já em julho de 1985 obteve habilitação para as eleições municipais do ano, pela Emenda Constitucional 25.
+36781;PCO;Partido da Causa Operária;1;Criação;1995-12-07;36781;PCO;Data de registro provisório pela Resolução TSE 19411. Registro definitivo em 30/09/1997 pela Resolução TSE 19981. Fundação extraoficial em 07/12/1995.
+36782;PD;Partido Democrático;1;Criação;1925-02-24;36782;PD;Data de fundação extraoficial
+36782;PD;Partido Democrático;4;Fusão;1934-02-24;36862;PC*;Fundiu-se a Ação Nacional Republicana e Federação dos Voluntários
+36783;PDC;Partido Democrata Cristão;1;Criação;1987-06-25;36783;PDC;Data de registro provisório pela Resolução TSE 13703. Registro definitivo pela Resolução TSE 14553 de 01/09/1988.
+36783;PDC;Partido Democrata Cristão;4;Fusão;1993-06-08;36812;PPR;Data da homologação pelo TSE. Convenção aprovou em 04/04/1993 a fusão ao PDS para formar o PPR
+;PDC*;Partido Democrata Cristão;1;Criação;1945-10-02;;PDC*;Registro provisório pela Resolução TSE 219. Criação extraoficial em 09/07/1945. Registro definitivo pela Resolução TSE 327 em 12/11/1945. 
+;PDC*;Partido Democrata Cristão;2;Extinção;1965-10-27;;;Extinto pelo AI-2
+36864;PDP;Partido Democrático Progressista;1;Criação;1945-09-15;36864;PDP;Data do registro provisório pela Resolução TSE 192
+36864;PDP;Partido Democrático Progressista;2;Extinção;1948-05-03;36864;PDP;Cancelamento do registro provisório pela Resolução TSE 2855
+36784;PDR;Partido Democrático Republicano;1;Criação;1981-09-14;36784;PDR;Data de registro provisório pela Resolução TSE 11.105. Primeiro manifesto publicado em março de 1971.
+36784;PDR;Partido Democrático Republicano;2;Extinção;1983-09-01;36784;PDR;Data estimada de cancelamento do registro provisório
+36785;PDS;Partido Democrático Social;1;Criação;1980-06-12;;;Registro provisório pela Resolução TSE 10860. Criação extra-oficial em 31/01/1980. Registro definitivo em 28/05/1981 pela Resolução TSE 11021.
+36785;PDS;Partido Democrático Social;4;Fusão;1993-06-08;36812;PPR;Data de homologação pelo TSE. Fusão ao PDC para formar o PPR foi decidida em 04/04/1993
+36786;PDT;Partido Democrático Trabalhista;1;Criação;1981-11-10;36786;PDT;"Data de registro definitivo no TSE; partidários consideram fundação em 17/06/1979"
+36787;PE;Partido Economista;2;Extinção;1950-01-01;36787;PE;
+36788;PED;Partido Economista Democrático;2;Extinção;1950-01-01;36788;PED;
+36761;PEN;Partido Ecológico Nacional;1;Criação;2012-06-19;36761;PEN;Data de registro no TSE. Fundação extraoficial em 09/08/2011.
+36761;PEN;Partido Ecológico Nacional;3;Alteração Nome;2018-04-26;37900;PATRI;Data de homologação da troca de nome pelo TSE. Registro na Câmara em 23/05/2018.
+;PERJ;Partido Economista do Rio de Janeiro;1;Criação;1933-02-14;;PERJ;Data de criação segundo FGV/CPDOC
+;PERJ;Partido Economista do Rio de Janeiro;5;Incorporação;1934-05-08;36855;UPF;Incorporado à UPF
+36789;PF;Partido Federalista;2;Extinção;1950-01-01;36789;PF;
+36790;PFL;Partido da Frente Liberal;1;Criação;1985-11-05;36790;PFL;Data de registro provisório pela Resolução TSE 12416. Fundação extraoficial em 11/09/1985. Registro definitivo em 11/09/1986 pela Resolução TSE 13067. 
+36790;PFL;Partido da Frente Liberal;3;Alteração Nome;2007-03-28;36769;DEM;Anúncio do novo nome feito em 28/03/2007. Registro da mudança na Câmara feito em 23/04/2007. Mudança de nome do PFL homologada pelo TSE em 12/06/2007 pela Resolução TSE 22550. 
+36791;PGT;Partido Geral dos Trabalhadores;1;Criação;1995-05-09;36791;PGT;Registro provisório pela Resolução TSE 19298. Registro definitivo em 02/09/1999 pela Resolução TSE 20465.
+36791;PGT;Partido Geral dos Trabalhadores;5;Incorporação;2003-04-01;36795;PL*;Incorporação ao PL homologada por Resolução TSE 21374
+36792;PHDBS;Partido Humanista Democrático Brasil Solidariedade;1;Criação;1999-08-29;36792;PHDBS;Resultante da troca de nome do PSN, aprovada em convenção nesta data
+36792;PHDBS;Partido Humanista Democrático Brasil Solidariedade;3;Alteração Nome;2000-05-30;36793;PHS;Homologação pela Resolução TSE 20636. Convenção que decidiu pelo nome PHS em 09/01/2000.
+36793;PHS;Partido Humanista Solidariedade;1;Criação;2000-05-30;36793;PHS;Resolução TSE 20636 sobre a troca de nome do PHDBS, decidida em convenção em 09/01/2000
+36793;PHS;Partido Humanista Solidariedade;5;Incorporação;2019-09-19;36896;PODE;Data da decisão do TSE
+36865;PIAD;Partido Industrial Agrícola Democrata;1;Criação;1945-10-02;36865;PIAD;Registro provisório pela Resolução TSE 216
+36865;PIAD;Partido Industrial Agrícola Democrata;2;Extinção;1948-05-04;36865;PIAD;Cancelamento de registro provisório pela Resolução TSE 2867
+36794;PJ;Partido da Juventude;1;Criação;1985-12-03;36794;PJ;Data de registro provisório pela Resolução TSE 13992. Criação extraoficial em 11/07/1985. A EC 25 permitiu o registro para as eleições de 1985.
+36794;PJ;Partido da Juventude;3;Alteração Nome;1989-05-11;36822;PRN;Resolução TSE 15244. Troca de nome decidida após filiação de Fernando Collor em fevereiro de 1989.
+37906;PL;Partido Liberal;1;Criação;2019-05-22;37906;PL;Data cadastrada na Câmara. Autorização do TSE para troca de nome do PR (36814) concedida em 07/05/2019
+36795;PL*;Partido Liberal;1;Criação;1987-03-19;36795;PL*;Registro provisório pela Resolução TSE 13597. Registro definitivo em 25/02/1988 pela Resolução TSE 14074.
+36795;PL*;Partido Liberal;4;Fusão;2007-01-25;36814;PR;Data registrada na Câmara. Fusão com PRONA homologada pela Resolução TSE 22504 em 19/12/2006.
+36866;PL**;Partido Libertador;1;Criação;1945-09-27;36866;PL**;Data de registro provisório pela Resolução TSE 210. Registro definitivo em 11/10/1945 pela Resolução TSE 325.
+36866;PL**;Partido Libertador;2;Extinção;1965-10-27;;;Extinto pelo AI-2 (art. 18)
+;PL***;Partido Libertador;1;Criação;1928-01-01;;PL***;Data aproximada
+;PL***;Partido Libertador;2;Extinção;1937-12-02;;;Extinto pelo Dec. 37/1937
+;PL****;Partido Liberal;1;Criação;1831-04-07;;PL****;Fonte: Wikipedia
+;PL****;Partido Liberal;2;Extinção;1889-11-15;;PL****;Fonte: Wikipedia
+36796;PLC;Partido Liberal Catarinense;2;Extinção;1937-12-02;36796;PLC;Extinto pelo Decreto 37/1937.
+36796;PLC;Partido Liberal Catarinense;1;Criação;1931-02-15;;;Data aproximada da convenção de criação do partido
+36867;PLIC;Partido da Lavoura, Indústria e Comércio;1;Criação;1945-09-18;36867;PLIC;Registro provisório pela Resolução TSE 197
+36867;PLIC;Partido da Lavoura, Indústria e Comércio;2;Extinção;1948-05-13;36867;PLIC;Cancelamento de registro provisório pela Resolução TSE 2894
+36868;PLP;Partido Liberal Progressista;1;Criação;1989-06-29;36868;PLP;Registro provisório pela Resolução TSE 15366
+36868;PLP;Partido Liberal Progressista;2;Extinção;1990-12-31;36868;PLP;Data estimada de expiração do registro provisório. Falta documentação oficial.
+;PLP*;Partido Liberal Progressista;1;Criação;1864-06-06;;PLP*;Anúncio da criação por Silveira Mota no Senado Federal, segundo Wikipedia
+;PLP*;Partido Liberal Progressista;2;Extinção;1868-07-16;;PLP*;Dissolução pelo Poder Moderador, segundo Wikipedia
+36887;PMB;Partido da Mulher Brasileira;1;Criação;2015-09-29;36887;PMB;Data de registro definitivo pelo TSE. Fundação extraoficial em 13/09/2008.
+36799;PMB*;Partido Municipalista Brasileiro;2;Extinção;1989-11-09;36799;PMB*;Declarado ilegal pelo TSE por não ter feito o mínimo de convenções regionais exigido. 
+36799;PMB*;Partido Municipalista Brasileiro;1;Criação;1985-08-01;36799;PMB*;Habilitação para disputar eleições pela Resolução TSE 12197. Registro provisório em 15/10/1987 pela Resolução TSE 13865.
+36800;PMDB;Partido do Movimento Democrático Brasileiro;1;Criação;1981-05-06;36800;PMDB;Data de registro provisório pela Resolução TSE 10841. Registro definitivo em 30/06/1981 pela Resolução TSE 11042. Fundação extra-oficial em 15/01/1980. Sucessor extra-oficial do MDB (36774). 
+36800;PMDB;Partido do Movimento Democrático Brasileiro;3;Alteração Nome;2018-05-15;36899;MDB;Homologação da troca de nome para MDB pelo TSE. Registro da mudança feito na Câmara em 21/05/2018 às 11h16.
+36801;PMN;Partido da Mobilização Nacional;1;Criação;1985-07-10;36801;PMN;Data de registro provisório no TSE. Registro definitivo em 25/10/1990 pela Resolução TSE 17021.
+36802;PMR;Partido Municipalista Renovador;1;Criação;2005-08-25;36802;PMR;Data de registro definitivo pela Resolução TSE 22072. Fundação extraoficial em 16/12/2003.
+36802;PMR;Partido Municipalista Renovador;3;Alteração Nome;2006-03-14;36815;PRB;Resolução TSE 22167. Novo estatuto em 13/08/2009 aprovado pela Resolução TSE 23104
+36803;PN;Partido Nilista;1;Criação;1900-12-31;36803;PN;
+36803;PN;Partido Nilista;2;Extinção;1950-01-01;36803;PN;
+36869;PN*;Partido Nacionalista;1;Criação;1985-08-01;36869;PN*;Autorização para disputar eleições pela Resolução TSE 12198. Não chegou a obter registro definitivo.
+36869;PN*;Partido Nacionalista;2;Extinção;1990-08-15;36869;PN*;Data aproximada de cancelamento de registro pelo TSE.
+36804;PNA;Partido Nacional de Alagoas;2;Extinção;1950-01-01;36804;PNA;
+36870;PNC*;Partido Nacional Classista;1;Criação;1945-10-04;36870;PNC*;Registro provisório pela Resolução TSE 228.
+36870;PNC*;Partido Nacional Classista;2;Extinção;1948-05-03;36870;PNC*;Cancelamento do registro provisório pela Resolução TSE 2852
+36871;PNE*;Partido Nacional Evolucionista;1;Criação;1945-10-19;36871;PNE*;Registro provisório pela Resolução TSE 262
+36871;PNE*;Partido Nacional Evolucionista;2;Extinção;1948-05-04;36871;PNE*;Cancelamento do registro provisório pela Resolução TSE 2871
+36892;PNPD;Partido Nacional Popular Democrático;1;Criação;1945-09-11;36892;PNPD;Data do registro provisório pela Resolução TSE 179
+36892;PNPD;Partido Nacional Popular Democrático;2;Extinção;1948-05-03;36892;PNPD;Cancelamento do registro provisório pela Resolução TSE 2856
+36808;PNS;Partido Nacional Socialista;1;Criação;1933-01-15;36808;PNS;"Data aproximada de criação; derivado do Partido Social Nacionalista do Piauí"
+36808;PNS;Partido Nacional Socialista;2;Extinção;1937-12-02;36808;PNS;Extinto pelo Decreto 37/1937
+36896;PODE;Podemos;1;Criação;2017-05-19;36896;PODE;Resultante da troca de nome do PTN.
+36873;POT;Partido Orientador Trabalhista;1;Criação;1945-10-04;36873;POT;Data do registro provisório pela Resolução TSE 229. Registro definitivo em 01/10/1946, pela Resolução TSE 1125
+36873;POT;Partido Orientador Trabalhista;2;Extinção;1951-10-12;36873;POT;Registro cancelado por insuficiência de votos nas eleições de 1950
+37903;PP;Progressistas;1;Criação;2018-12-11;37903;PP;
+36884;PP*;Partido Popular;1;Criação;1980-09-02;36884;PP*;Registro provisório pela Resolução TSE 10889. Folha de S. Paulo anunciou criação em 12/02/1980.
+36884;PP*;Partido Popular;5;Incorporação;1982-03-16;36800;PMDB;Data da Resolução TSE 11192. Segundo Wikipedia, TSE ratificou a fusão ao PMDB em 02/03/1982
+36809;PP**;Partido Progressista;1;Criação;2003-05-29;36809;PP**;Data de homologação da troca de nome do PPB pela Resolução TSE 21401. Novo nome anunciado em 04/04/2003.
+36809;PP**;Partido Progressista;3;Alteração Nome;2018-12-11;37903;PP;Mudança de nome para Progressistas, mantendo a sigla PP
+;PP***;Partido Progressista;1;Criação;1993-05-27;;PP***;Resolução TSE 19114. Resultante da fusão de PST* e PTR
+;PP***;Partido Progressista;4;Fusão;1995-09-14;36811;PPB;Juntou-se ao PPR para formar o PPB
+36810;PPA;Partido Popular do Acre;2;Extinção;1950-01-01;36810;PPA;
+36811;PPB;Partido Progressista Brasileiro;1;Criação;1995-09-14;36811;PPB;Resultado de fusão entre PPR e PP (36809). Registro definitivo pela Resolução TSE 19386 em 16/11/1995.
+36811;PPB;Partido Progressista Brasileiro;3;Alteração Nome;2003-05-29;36809;PP**;Data de homologação pela Resolução TSE 21401. Troca de nome anunciada em 04/04/2003.
+;PPB*;Partido Proletário do Brasil;1;Criação;1946-03-27;;PPB*;Resolução TSE 690. Registro definitivo pela Resolução TSE 1337 em 17/12/1946.
+;PPB*;Partido Proletário do Brasil;3;Alteração Nome;1947-07-24;;PST**;Resolução TSE 2111
+36762;PPL;Partido Pátria Livre;1;Criação;2011-11-11;36762;PPL;Data de obtenção do registro RPP 142658. Fudnação extraoficial em 21/04/2009.
+36762;PPL;Partido Pátria Livre;5;Incorporação;2019-05-28;36779;PCdoB;Data de decisão do TSE pela incorporação. Registro na Câmara feito em 06/08/2019.
+36893;PPM;Partido Progressista Mineiro;2;Extinção;1950-01-01;36893;PPM;
+36812;PPR;Partido Progressista Reformador;1;Criação;1993-06-08;36812;PPR;Resolução TSE 19133, que homologou a fusão entre PDS e PDC decidida por convenção em 04/04/1993
+36812;PPR;Partido Progressista Reformador;4;Fusão;1995-09-14;36811;PPB;Fundiu-se com o PP***
+36813;PPS;Partido Popular Socialista;1;Criação;1992-03-19;36813;PPS;Resolução TSE 17930
+36813;PPS;Partido Popular Socialista;3;Alteração Nome;2019-04-05;37905;CIDADANIA;Alteração de nome aprovada em convenção em 23/03/2019 e ratificada pelo TSE em 19/09/2019
+36875;PPS*;Partido Popular Sindicalista;1;Criação;1945-10-02;36875;PPS*;Data de registro provisório pela Resolução TSE 217. Regisro definitivo pela Resolução TSE 309 em 06/11/1946.
+36875;PPS*;Partido Popular Sindicalista;4;Fusão;1946-08-06;36840;PSP;Resolução-TSE 960. Juntou-se a PAN e PRP.
+36814;PR;Partido da República;1;Criação;2007-01-25;36814;PR;Data registrada na Câmara. Fusão do PRONA e do PL (registros 19099 e 19121). TSE e fontes indicam 26/10/2006 como data oficial de criação. Registro definitivo pela Resolução TSE 22504 de 19/12/2006.
+36814;PR;Partido da República;3;Alteração Nome;2019-05-22;37906;PL;Autorização do TSE para troca de nome para PL (37906) concedida em 07/05/2019
+36877;PR*;Partido Regenerador;1;Criação;1945-09-27;36877;PR*;Registro provisório pela Resolução TSE 209.
+36877;PR*;Partido Regenerador;2;Extinção;1948-05-04;36877;PR*;Cancelamento de registro provisório pela Resolução TSE 2872. Embargo de declaração rejeitado em 09/11/1948 pela Resolução TSE 3159.
+36876;PR**;Partido Republicano;1;Criação;1945-08-21;36876;PR**;Registro provisório, pela Resolução TSE 128. Registro definitivo pela Resolução-TSE 308 de 06/11/1945.
+36876;PR**;Partido Republicano;2;Extinção;1965-10-27;36876;PR**;Extinto pelo AI-2 em 1965
+36815;PRB;Partido Republicano Brasileiro;1;Criação;2006-03-14;36815;PRB;Troca de nome do PMR, Resolução TSE 22167. Novo estatuto em 13/08/2009 aprovado pela Resolução TSE 23104
+36815;PRB;Partido Republicano Brasileiro;3;Alteração Nome;2019-08-16;37908;REPUBLICANOS;Data de registro na Câmara da troca de nome, decidida em convenção em 07/05/2019.
+36878;PRB*;Partido Ruralista Brasileiro;1;Criação;1900-12-31;36878;PRB*;
+36878;PRB*;Partido Ruralista Brasileiro;2;Extinção;1950-01-01;36878;PRB*;
+36816;PRC;Partido Republicano Conservador;2;Extinção;1950-01-01;36816;PRC;
+36817;PRD;Partido Republicano Democrata da Bahia;4;Fusão;1937-07-02;36817;PRD;Fusão com a LASP para criar a CAB 
+;PRD*;Partido Republicano Democrático;1;Criação;1945-08-07;;PRD*;Data de registro provisório pela Resolução TSE 110. Registro definitivo pela Resolução TSE 343 em 16/11/1946.
+;PRD*;Partido Republicano Democrático;3;Alteração Nome;1949-01-18;36828;PRT;Resolução TSE 3194
+36818;PRE;Partido Republicano;2;Extinção;1950-01-01;36818;PRE;
+36819;PRF;Partido Republicano Federal;2;Extinção;1950-01-01;36819;PRF;
+36820;PRL;Partido Republicano Liberal;2;Extinção;1950-01-01;36820;PRL;
+36821;PRM;Partido Republicano Mineiro;2;Extinção;1950-01-01;36821;PRM;
+36822;PRN;Partido da Reconstrução Nacional;1;Criação;1989-05-11;36822;PRN;Resolução TSE 15244 com renomeação do PJ, decorrente da filiação de Fernando Collor em fevereiro de 1989.
+36822;PRN;Partido da Reconstrução Nacional;3;Alteração Nome;2001-04-24;36846;PTC;Resolução TSE 20796. Data do estatuto registrado no TSE com a troca de nome para PTC: 11/11/2000
+36823;PRONA;Partido de Reedificação da Ordem Nacional;1;Criação;1989-06-29;36823;PRONA;Data do registro provisório pela Resolução TSE 15365. Registro definitivo obtido em 30/10/1990 pela Resolução TSE 17029.
+36823;PRONA;Partido de Reedificação da Ordem Nacional;4;Fusão;2006-12-19;36814;PR;Data da Resolução TSE 22504 que reconheceu a fusão. Registro no TSE e estatuto do PR têm data de 26/10/2006.
+36763;PROS;Partido Republicano da Ordem Social;1;Criação;2013-06-26;36763;PROS;Data de obtenção do registro RPP 30524. Registro definitivo em 24/09/2013. Fundação extraoficial em 04/01/2010.
+36824;PRP;Partido Republicano Progressista;1;Criação;1989-08-17;36824;PRP;Obtenção do registro provisório pela Resolução TSE 15467. Registro definitivo em 30/10/1991 pela Resolução TSE 17670. Fundação extraoficial em 24/05/1989.
+36824;PRP;Partido Republicano Progressista;5;Incorporação;2019-03-28;37900;PATRI;Data em que o TSE decidiu por unanimidade pela incorporação ao Patriota
+36879;PRP*;Partido de Representação Popular;1;Criação;1945-10-09;36879;PRP*;Data de registro provisório pela Resolução TSE 244. Registro definitivo pela Resolução-TSE 323 em 10/11/1945.
+36879;PRP*;Partido de Representação Popular;2;Extinção;1965-10-27;36879;PRP*;Extinto pelo AI-2 em 1965
+;PRP**;Partido Republicano Progressista;1;Criação;1945-09-15;;PRP**;Registro provisório pela Resolução TSE 193. Resolução TSE 325 com registro definitivo em 10/11/1945
+;PRP**;Partido Republicano Progressista;4;Fusão;1946-08-06;36840;PSP;Resolução-TSE 960. Juntou-se a PAN e PPS.
+36825;PRPa;Partido Republicano Paulista;1;Criação;1873-07-03;36825;PRPa;Data da convenção inaugural do partido, em Itu.
+36825;PRPa;Partido Republicano Paulista;2;Extinção;1937-12-02;36825;PRPa;Extinto pelo Decreto 37/1937
+36826;PRR;Partido Republicano Rio-Grandense;1;Criação;1882-02-23;36826;PRR;
+36826;PRR;Partido Republicano Rio-Grandense;2;Extinção;1929-08-15;36826;PRR;Data aproximada. Juntou-se ao PL*** para criar a FUG, mas o PL*** continuou existindo como independente
+36827;PRS;Partido das Reformas Sociais;1;Criação;1990-03-27;36827;PRS;Data de registro provisório pela Resolução TSE 16341
+36827;PRS;Partido das Reformas Sociais;2;Extinção;1992-04-23;36827;PRS;Data de indeferimento do registro definitivo pela Resolução TSE 18052
+36828;PRT;Partido Republicano Trabalhista;1;Criação;1949-01-18;36828;PRT;Resultante da troca de nome do PRD, aprovada na Resolução TSE 3194
+36828;PRT;Partido Republicano Trabalhista;3;Alteração Nome;1961-11-17;;PRT*;Nome alterado para Partido Rural Trabalhista pela Resolução TSE 6886
+;PRT*;Partido Rural Trabalhista;1;Criação;1961-11-17;;PRT*;Resultante da troca de nome do PRT (36828), pela Resolução-TSE 6886
+;PRT*;Partido Rural Trabalhista;2;Extinção;1965-10-27;;;Extinto pelo AI-2 em 1965
+36829;PRTB;Partido Renovador Trabalhista Brasileiro;1;Criação;1997-02-18;36829;PRTB;Data de registro definitivo no TSE. Criação extraoficial em 27/11/1994.
+36832;PSB;Partido Socialista Brasileiro;1;Criação;1987-04-21;36832;PSB;Data de registro provisório pela Resolução TSE 13617. Registro definitivo em 01/07/1988 pela Resolução TSE 14359.
+;PSB*;Partido Socialista Brasileiro;1;Criação;1947-08-06;;PSB*;Resultado da troca de nome do Esquerda Democrática - Resolução TSE 2130
+;PSB*;Partido Socialista Brasileiro;2;Extinção;1965-10-27;;;Extinto pelo AI-2
+36833;PSC;Partido Social Cristão;1;Criação;1985-07-09;36833;PSC;Data de registro provisório pela Resolução TSE 12.184. Registro permanente em 29/03/1990 pela Resolução TSE 13.976. 
+36895;PSC*;Partido Socialista Cristão;1;Criação;1945-09-29;36895;PSC*;Registro provisório pela Resolução TSE 211
+36895;PSC*;Partido Socialista Cristão;2;Extinção;1948-05-04;36895;PSC*;Cancelamento do registro provisório pela Resolução TSE 2869
+36834;PSD;Partido Social Democrático;1;Criação;2011-09-27;36834;PSD;Data de decisão do TSE sobre a criação do partido. Fundação extra-oficial em 21/03/2011.
+;PSD*;Partido Social Democrático;1;Criação;1987-10-22;;PSD*;Data de registro provisório pela Resolução TSE 13882. Registro definitivo pela Resolução TSE 16317 de 16/03/1990.
+;PSD*;Partido Social Democrático;5;Incorporação;2003-02-20;36845;PTB;Incorporação homologada pela Resolução TSE 21350
+;PSD**;Partido Social Democrático;1;Criação;1945-08-21;;PSD**;Data de registro provisório pela Resolução TSE 165. Registro definitivo pela Resolução TSE 277 em 25/10/1945. Fundação informal em 17/07/1945.
+;PSD**;Partido Social Democrático;2;Extinção;1965-10-27;;;Extinto pelo AI-2 (art. 18)
+36835;PSDB;Partido da Social Democracia Brasileira;1;Criação;1988-06-06;36835;PSDB;Data de registro provisório pela Resolução TSE 14366. Registro definitivo em 24/05/1989 pela Resolução TSE 15494.
+36836;PSDC;Partido Social Democrata Cristão;1;Criação;1995-08-17;36836;PSDC;Data de registro provisório pela Resolução TSE 19133. Registro definitivo em 05/08/1997 pela Resolução TSE 19891.
+36836;PSDC;Partido Social Democrata Cristão;3;Alteração Nome;2018-05-17;37902;DC;Alteração estatutária aceita pelo TSE em 11/05/2018
+36880;PSdoB;Partido Socialista do Brasil;1;Criação;1992-03-26;36880;PSdoB;Registro provisório pela Resolução TSE 17952
+36880;PSdoB;Partido Socialista do Brasil;2;Extinção;1992-11-30;36880;PSdoB;Data aproximada. Foi extinto após eleições municipais de 1992, sem obter registro definitivo.
+36837;PSL;Partido Social Liberal;1;Criação;1994-12-19;36837;PSL;Data de registro provisório. Registro definitivo pela Resolução TSE 20211 em 02/06/1998. Fundação extraoficial em 30/10/1994.
+36838;PSN;Partido da Solidariedade Nacional;1;Criação;1995-09-14;36838;PSN;Data de registro provisório. Definitivo em 20/03/1997 pela Resolução TSE 19825.
+36838;PSN;Partido da Solidariedade Nacional;3;Alteração Nome;2000-05-30;36792;PHDBS;Data da Resolução TSE 20636. Convenção aprovou a troca de nome em 29/08/1999.
+36839;PSOL;Partido Socialismo e Liberdade;1;Criação;2005-09-15;36839;PSOL;Registro pela Resolução TSE 22083. Fundação extraoficial em 06/07/2004.
+36840;PSP;Partido Social Progressista;1;Criação;1946-08-06;36840;PSP;Registro provisório concedido pela Resolução TSE 960. União entre PAN, PPS e PRP.
+36840;PSP;Partido Social Progressista;2;Extinção;1965-10-27;36840;PSP;Extinto pelo AI-2 (art. 18)
+36841;PSR;Partido Social Republicano;2;Extinção;1937-12-02;36841;PSR;Extinção pelo Decreto 37/1937
+36841;PSR;Partido Social Republicano;1;Criação;1933-01-27;36841;PSR;Data de fundação extra-oficial do PSR de Goiás, segundo Wikipedia
+;PSRRJ;Partido Social Republicano do Rio de Janeiro;1;Criação;1937-04-15;;PSRRJ;Data de fundação aproximada (citação do Diario de Noticias do RJ pela CPDOC/FGV)
+;PSRRJ;Partido Social Republicano do Rio de Janeiro;2;Extinção;1937-12-02;;;Extinção pelo Decreto 37/1937
+36842;PST;Partido Social Trabalhista;1;Criação;1993-09-28;36842;PST;Data de registro provisório Registro definitivo em 28/08/1996 pela Resolução TSE 19708.
+36842;PST;Partido Social Trabalhista;5;Incorporação;2003-04-01;36795;PL*;Incorporação ao PL*, junto com o PGT, homologada por Resolução TSE 21374
+;PST*;Partido Social Trabalhista;1;Criação;1989-06-01;;PST*;Data de registro provisório pela Resolução TSE 15297. Registro definitivo pela Resolução TSE 16577 em 12/06/1990.
+;PST*;Partido Social Trabalhista;4;Fusão;1993-05-27;;PP***;Fundiu-se com PTR para formar o PP***. Data de homologação pela Resolução TSE 19114.
+;PST**;Partido Social Trabalhista;1;Criação;1947-07-24;;PST**;Resolução TSE 2111 sobre pedido de alteração de nome do Partido Proletário do Brasil
+;PST**;Partido Social Trabalhista;2;Extinção;1965-07-15;;;Extinto com a promulgação da Lei 4740/65
+36843;PSTU;Partido Socialista dos Trabalhadores Unificado;1;Criação;1993-06-08;36843;PSTU;Data de registro provisório pela Resolução TSE 19135. Registro definitivo pela Resolução TSE 19420 em 19/12/1995. Fundação extraoficial em 30/09/1993.
+36844;PT;Partido dos Trabalhadores;1;Criação;1980-12-01;36844;PT;Data de registro provisório pela Resolução TSE 10965. Registro definitivo em 11/02/1982 pela Resolução TSE 11165.
+36845;PTB;Partido Trabalhista Brasileiro;1;Criação;1980-05-12;36845;PTB;Data do registro provisório pela Resolução TSE 10843. Registro definitivo em 03/11/1981 pela Resolução TSE 11120.
+;PTB*;Partido Trabalhista Brasileiro;1;Criação;1945-08-28;;PTB*;Registro provisório pela Resolução TSE 144. Registro definitivo em 12/11/1945 pela Resolução TSE 328. Fundação extraoficial em 26/03/1945.
+;PTB*;Partido Trabalhista Brasileiro;2;Extinção;1965-10-27;;;Extinto pelo AI-2
+36846;PTC;Partido Trabalhista Cristão;1;Criação;2001-04-24;36846;PTC;Data da Resolução TSE 20796 sobre a troca de nome do PRN. Nova sigla apareceu em estatuto registrado no TSE com data de 11/11/2000.
+36847;PTdoB;Partido Trabalhista do Brasil;1;Criação;1989-11-23;36847;PTdoB;Data de registro provisório pela Resolução TSE 15986. Registro definitivo em 11/10/1994 pela Resolução TSE 244(?). Fundação extraoficial em 15/05/1989.
+36847;PTdoB;Partido Trabalhista do Brasil;3;Alteração Nome;2017-09-25;36898;AVANTE;Estatuto com novo nome foi submetido ao TSE em 25/04/2017 e aprovado em 12/09/2017
+36848;PTN;Partido Trabalhista Nacional;1;Criação;1995-06-29;36848;PTN;Registro provisório pela Resolução TSE 19318. Registro definitivo em 02/10/1997 pela Resolução TSE 19984. Fundação extraoficial em 01/05/1995.
+36848;PTN;Partido Trabalhista Nacional;3;Alteração Nome;2017-05-19;36896;PODE;Estatuto com novo nome foi aprovado pelo TSE em 16/05/2017. Fontes apontam troca em 08/11/2016.
+;PTN*;Partido Trabalhista Nacional;1;Criação;1945-10-06;;PTN*;Data de registro provisório pela Resolução TSE 230. Registro definitivo pela Resolução TSE 1181 em 22/10/1946. Fudnação extraoficial em 02/05/1945.
+;PTN*;Partido Trabalhista Nacional;2;Extinção;1965-10-27;;;Extinto pelo AI-2
+36849;PTR;Partido Trabalhista Renovador;1;Criação;1987-11-26;36849;PTR;Registro provisório pela Resolução TSE 13975. Registro definitivo pela Resolução TSE 16334 de 22/03/1990.
+36849;PTR;Partido Trabalhista Renovador;4;Fusão;1993-05-27;;PP***;Juntou-se ao PST* para formar o PP***. Data de homologação pela Resolução TSE 19114.
+36850;PTRB;Partido Trabalhista Renovador Brasileiro;1;Criação;1993-11-11;36850;PTRB;Data de registro provisório pela Resolução TSE 260(?). 
+36850;PTRB;Partido Trabalhista Renovador Brasileiro;2;Extinção;1995-01-01;36850;PTRB;Data aproximada extraoficial. Fundadores criaram o PRTB em 1994.
+36851;PV;Partido Verde;1;Criação;1988-03-17;36851;PV;Data de registro provisório pela Resolução TSE 14136. Registro definitivo em 30/09/1993 pela Resolução TSE 243 (?). Fundação extraoficial em 17/01/1986.
+36886;REDE;Rede Sustentabilidade;1;Criação;2015-09-29;36886;REDE;Data de registro no TSE. Fundação extraoficial em 16/02/2013.
+37908;REPUBLICANOS;Republicanos;1;Criação;2019-08-16;37908;REPUBLICANOS;Data de registro na Câmara da troca de nome do PRB, decidida em convenção em 07/05/2019 e homologada pelo TSE em 15/08/2019.
+36765;SD;Solidariedade;1;Criação;2015-08-06;36765;SD;
+36765;SD;Solidariedade;3;Alteração Nome;2018-06-28;37904;SOLIDARIEDADE;Data de aprovação pelo TSE do estatuto sem sigla, apresentado em 17/02/2016. Mudança registrada na Câmara originalmente em 17/12/2018.
+36764;SDD;Solidariedade;3;Alteração Nome;2015-08-06;36765;SD;Data de aprovação pelo TSE do estatuto com a sigla SD, apresentado em 25/02/2015
+36764;SDD;Solidariedade;1;Criação;2013-09-24;36764;SDD;Data de aprovação do pedido de registro pelo TSE (RPP 40309)
+37904;SOLIDARIEDADE;Solidariedade;1;Criação;2018-06-28;37904;SOLIDARIEDADE;Data de aprovação pelo TSE do estatuto sem sigla, apresentado em 17/02/2016. Troca de sigla registrada na Câmara originalmente em 17/12/2018.
+36853;UDB;União Democrática Brasileira;1;Criação;1937-06-10;36853;UDB;Data de criação segundo FGV/CPDOC. Nao é claro se foi uma coligação eleitoral ou partido.
+36853;UDB;União Democrática Brasileira;2;Extinção;1937-12-02;36853;UDB;Extinto pelo Decreto 37/1937
+36854;UDN;União Democrática Nacional;1;Criação;1945-09-22;36854;UDN;Data de registro provisório pela Resolução TSE 208. Registro definitivo em 31/10/1945 pela Resolução TSE 296. Fundação extraoficial em 07/04/1945.
+36854;UDN;União Democrática Nacional;2;Extinção;1965-10-27;36854;UDN;Extinto pelo AI-2 (art. 18)
+36882;UNT;União Nacional do Trabalho;1;Criação;1945-09-11;36882;UNT;Registro provisório pelo TSE
+36882;UNT;União Nacional do Trabalho;2;Extinção;1948-05-04;36882;UNT;Cancelamento de registro provisório pela Resolução TSE 2868
+36855;UPF;União Progressista Fluminense;1;Criação;1933-02-18;36855;UPF;
+36855;UPF;União Progressista Fluminense;2;Extinção;1937-12-02;36855;UPF;Extinto pelo Decreto 37/1937
+36883;USDH;União Social pelos Direitos do Homem;1;Criação;1945-09-18;36883;USDH;Data de registro provisório pela Resolução TSE 198. Registro definitivo foi indeferido.
+36883;USDH;União Social pelos Direitos do Homem;2;Extinção;1948-05-03;36883;USDH;Data de cancelamento de registro pela Resolução TSE 2856
+;;Partido Republicano da Província do Rio de Janeiro;1;Criação;1888-11-13;;;Data do Congresso Republicano Provincial que anunciou o partido.
+;;Partido Republicano da Província do Rio de Janeiro;3;Alteração Nome;1892-04-18;;PRF;Segundo Wikipedia, data em que o novo nome aparece pela primeira vez
+;;Partido Republicano Fluminense;1;Criação;1892-04-18;;PRF;Resultante da mudança de nome do Partido Republicano da Provincia do Rio de Janeiro
+;;Partido Republicano Fluminense;2;Extinção;1937-12-02;;;Extinto pelo Decreto 37/1937
