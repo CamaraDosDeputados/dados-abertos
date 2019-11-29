@@ -7,9 +7,9 @@ Tabelas extraoficiais do Dados Abertos com informações em elaboração sobre p
 ## HOPP - Histórico de Ocorrências de Partidos Políticos
 _CSV separado por ponto-e-vírgula, codificação UTF-8_
 
-Com base em tabelas de três diferentes sistemas internos da Câmara, este arquivo agrupa identificadores de partidos políticos e ocorrências históricas como criação, extinção, trocas de nomes ou siglas, incorporação a outros partidos ou fusão para criação de novos partidos.
+Com base em tabelas de três diferentes sistemas internos da Câmara, este arquivo agrupa identificadores de partidos políticos e dados sobre ocorrências históricas como criação, extinção, trocas de nomes ou siglas, incorporação a outros partidos ou fusão para criação de novos partidos.
 
-A primeira versão desta tabela, publicada em 14/11/2019, traz informações sobre quase muitos dos 174 partidos políticos cadastrados nos sistemas da Câmara e listados pelo serviço de Dados Abertos, além de alguns outros partidos que foram "descobertos" em consulta a 116 documentos históricos de fontes diversas. Ainda há, porém, vários partidos para os quais ainda não foram levantados os dados para o preenchimento das informações. Prioridade foi dada para os partidos existentes, os criados desde a volta do pluripartidarismo em 1979 e os que foram criados entre o fim do Estado Novo e o AI-2 do governo militar em 1965.
+A tabela traz informações sobre muitos dos 174 partidos já cadastrados na Câmara, e ainda sobre alguns partidos que não foram até o momento cadastrados. Prioridade foi dada para os partidos existentes, os criados desde a volta do pluripartidarismo em 1979 e os que foram criados entre o fim do Estado Novo e o AI-2 do governo militar em 1965.
 
 O histórico de ocorrências dos partidos tem diversas aplicações possíveis para o Dados Abertos da Câmara e seus usuários, tais como:
 
