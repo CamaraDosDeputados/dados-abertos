@@ -1,7 +1,7 @@
 # votacoes
-Diretório para criação em manutenção de arquivos com dados sobre as votações realizadas na Câmara dos Deputados com âmbito da própria Câmara -- isto é, por enquanto são consideradas fora de escopo as votações de âmbito do Congresso Nacional, como as de comissões mistas e de sessões plenárias em conjunto com o Senado Federal.
+Diretório para criação e manutenção de arquivos com dados sobre as votações realizadas na Câmara dos Deputados com âmbito da própria Câmara -- isto é, por enquanto são consideradas fora de escopo as votações de âmbito do Congresso Nacional, como as de comissões mistas e de sessões plenárias em conjunto com o Senado Federal.
 
-## Votações no _Dados Abertos_
+## Votações e o _Dados Abertos_
 
 Na especificação do **Dados Abertos** a partir de 2017, uma _votação_ é o resultado de uma deliberação feita por um grupo de parlamentares; cada votação tem um e só um _objeto_, isto é, a proposição sobre a qual se deu a deliberação; cada votação deve ser identificada de maneira única e exclusiva, tanto se realizada no Plenário quanto nas comissões.
 
