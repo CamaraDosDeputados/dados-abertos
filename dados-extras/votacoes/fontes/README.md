@@ -27,3 +27,17 @@ Gerada a partir da base de dados do sistema de registro de votações do Plenár
 A base adota uma forma singular de identificar partidos e blocos a partir de uma mesma tabela, e a principal forma de identificação é por meio de suas siglas. O campo `codTipoLideranca` informa com "P" ou "B" se o registro se refere à orientação de um partido ou bloco.
 
 No caso dos blocos partidários, a sigla em `sigPartidoBloco` e o identificador numérico em `numPartidoBloco` variam a cada vez que um partido entra ou sai do bloco, o que é bastante diferente da forma de cadastro dos blocos parlamentares em outras bases da Câmara, entre elas a que é usada pelo endpoint `/blocos` do **Dados Abertos**. 
+
+
+## PlenVotos-L*.csv
+_UTF-8, separado por ";"_
+
+Arquivos com informações sobre o voto dado por cada deputado em cada votação do Plenário. Separados por legislatura em que foram realizadas as votações.
+
+Em cada registro:
+
+- `plenVotacaoId` é o identificador exclusivo de cada votação no Plenário, para referência à tabela _PlenVotacoes-ate_L55_.
+- `nomParlRegistrado`, `sigPartido`, `sigUF` e `nomBloco` identificam o parlamentar. Esses dados são registrados na mesma tabela e no mesmo momento em que os votos são cadastrados pelo sistema de votações do Plenário -- isto é, eles não são puxados de outra tabela do banco de dados, e refletem exatamente as informações do momento em que o voto foi registrado.
+- `nomParlamentar`, por sua vez, é o nome cadastrado em uma outra tabela da base de dados, incluída neste arquivo como um complemento da identificação.
+- `idDeputado` é o mesmo identificador usado em `/deputados/{id}` da API do Dados Abertos. Esse identificador não é registrado na base de dados do sistema de votações do Plenário, e precisou ser extraído do banco de dados "central" sobre os parlamentares por meio de uma comparação de nomes. Há muitos casos em que nem `nomParlamentar` nem `noMParlRegistrado` correspondem ao nome parlamentar oficialmente registrado pelo deputado na legislatura em questão -- e nesses casos o campo ficou vazio.
+- `codQualidadeVoto` e `qualVoto` trazem o voto do parlamentar.
