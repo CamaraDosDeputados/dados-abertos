@@ -15,7 +15,7 @@ Isso ocorre na área de [Issues](https://github.com/CamaraDosDeputados/dados-abe
 ## Comunidade ##
 Usuários do **Dados Abertos** criaram um grupo no WhatsApp para anúncios, avisos e troca de ideias. Participe! Basta clicar [aqui](https://chat.whatsapp.com/KHKU3ehNkn016WTOn2zfXB) :)
 
-Para discussões sobre dados abertos em geral, o grupo _Dados Abertos BR_ no Telegram reúne mais de 1.600 membros. É possível acessá-lo pela web em https://t.me/dadosabertos .
+Para discussões sobre dados abertos em geral, o grupo _Dados Abertos .BR_ no Telegram reúne mais de 1.600 membros. É possível acessá-lo pela web em https://t.me/dadosabertos .
 
 ## Sobre o Dados Abertos ##
 O serviço de **Dados Abertos** da Câmara é desenvolvido e mantido pelo Departamento de Inovação e Tecnologia da Informação (DITEC), mais especificamente pela Seção de Integração a Serviços Externos de Interação Social (SISEI). Existente desde 2006, foi completamente atualizado em 2017 com um novo portal, uma nova API RESTful que fornece dados em JSON e XML, e novos conjuntos de arquivos para _download_ em formatos XML, JSON, CSV, XLSX (MS Excel) e ODS (LibreOffice).
